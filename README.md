@@ -1,5 +1,8 @@
 # Cocry-Pred: A Dynamic Resource Propagation Method Integrating Cocrystal and Substructure Networks for Cocrystal Prediction
 
+## NBI Algorithm Principle Diagram：
+![image](https://github.com/17855461143/fluor_pred/blob/main/figures/2.png?raw=true)
+
 ## File Description:
 * Data [folder]  
   The folder contains model training data and various files for fingerprint generation networks. Among them, 1_Cocrystal_data.csv is the cocrystal data used by the model, and 2_Cocrystal_molecule.csv contains all the molecular nodes.
@@ -31,9 +34,7 @@ Please follow these steps to create the working environment.
 * pandas == 1.2.4  
 * networkx == 2.6.3  
 * rdkit == 2020.09.1.0  
-  
-## NBI Algorithm Principle Diagram：
-![image](https://github.com/17855461143/fluor_pred/blob/main/figures/2.png?raw=true)
+
   
 ## Cocry-pred Software Usage Interface:
 for specific usage, please refer to the User Guide.pdf.

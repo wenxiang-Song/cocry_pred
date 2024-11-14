@@ -1,7 +1,7 @@
 # Cocry-Pred: A Dynamic Resource Propagation Method Integrating Cocrystal and Substructure Networks for Cocrystal Prediction
 
 ## NBI Algorithm Principle Diagram：
-![image](https://github.com/17855461143/fluor_pred/blob/main/figures/2.png?raw=true)
+![image](https://github.com/17855461143/cocry_pred/blob/main/figure/1.png?raw=true)
 
 ## File Description:
 * Data [folder]  
@@ -38,10 +38,10 @@ Please follow these steps to create the working environment.
   
 ## Cocry-pred Software Usage Interface:
 for specific usage, please refer to the User Guide.pdf.
-![image](https://github.com/17855461143/fluor_pred/blob/main/figures/1.png?raw=true)
+![image](https://github.com/17855461143/cocry_pred/blob/main/figure/2.png?raw=true)
 
 ## Cocrystal Network Diagram:
-![image](https://github.com/17855461143/fluor_pred/blob/main/figures/3.png?raw=true)
+![image](https://github.com/17855461143/cocry_pred/blob/main/figure/3.png?raw=true)
 
 ## Usage Statement:
 Cocry-pred is a freely available cocrystal prediction tool. You have the right to install and run the software on your personal computer, as well as to copy and modify the software to meet your personal learning and research needs. However, you are not allowed to use the software for any commercial activities, including but not limited to selling, renting, lending the software or any derivative products of the software, or using the software in any commercial services or products.

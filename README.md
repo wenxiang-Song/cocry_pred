@@ -25,8 +25,8 @@
 * Software-GUI.ipynb  
   Software-GUI.ipynb is the GUI interface we have developed, which users can directly invoke or make certain modifications to.
   
-* User Guide.pdf  
-  User Guide.pdf is the specific software usage manual.
+* User Guide.docx  
+  User Guide.docx is the specific software usage manual.
   
 ## Creation of the GUI Usage Environment:  
 Please follow these steps to create the working environment.  
